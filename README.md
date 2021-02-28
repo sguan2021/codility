@@ -1,0 +1,3 @@
+# codility
+
+//codility training code
